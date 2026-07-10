@@ -123,16 +123,9 @@ Currently, I am building my portfolio by completing hands-on data analytics proj
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact"/>
-
-</p>
-
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sharmadeepak56796-byte&theme=github)
 ---
 
 ⭐ Thanks for visiting my profile!
